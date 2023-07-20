@@ -18,3 +18,7 @@ streamlit run dash.py
 ## video tutorial
 Here, I explain and demonstrate the dashboard:
 https://drive.google.com/file/d/1lZ6043eEO5fUw7lRTPUxy4b8SjBu2-gA/view?usp=sharing
+
+
+## SQL 
+This folder has the sql requested from section 1
